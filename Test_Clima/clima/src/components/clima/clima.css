@@ -1,0 +1,16 @@
+
+.Card_temp{
+ background-color: transparent;
+ width: 10%;
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ border-radius: 20px;
+ border: solid black;
+ gap: 2px;
+}
+.textCard{
+  font-size: 70%;
+  font-weight: bold;
+  color: black;
+}
